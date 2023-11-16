@@ -69,5 +69,5 @@ SpriteAtlas:
   - clown_export_walk_16
   - clown_export_walk_32
   m_RenderDataMap: {}
-  m_Tag: New Sprite Atlas
+  m_Tag: walk_character
   m_IsVariant: 0
