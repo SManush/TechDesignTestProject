@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: buff_character
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 02060f91378d3b64f8835416c6364a9b, type: 3}
+    - {fileID: 2800000, guid: 54fdcbe4c460d5a47a604d0e00e48780, type: 3}
+    - {fileID: 2800000, guid: fafe2aec9cf225a438977ab4c95859c0, type: 3}
+    - {fileID: 2800000, guid: 150efe8aa50af88499730342b820a125, type: 3}
+    - {fileID: 2800000, guid: 4ddb54ded086cbc4e9a31ddaf2a19d84, type: 3}
+    - {fileID: 2800000, guid: b95ad549f10dddb46947e23b90ab53e9, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 02060f91378d3b64f8835416c6364a9b, type: 3}
+  - {fileID: 21300000, guid: 54fdcbe4c460d5a47a604d0e00e48780, type: 3}
+  - {fileID: 21300000, guid: b95ad549f10dddb46947e23b90ab53e9, type: 3}
+  - {fileID: 21300000, guid: 150efe8aa50af88499730342b820a125, type: 3}
+  - {fileID: 21300000, guid: fafe2aec9cf225a438977ab4c95859c0, type: 3}
+  - {fileID: 21300000, guid: 4ddb54ded086cbc4e9a31ddaf2a19d84, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - clown_export-buff_1_0
+  - clown_export-buff_1_8
+  - clown_export-buff_1_40
+  - clown_export-buff_1_24
+  - clown_export-buff_1_16
+  - clown_export-buff_1_32
+  m_RenderDataMap: {}
+  m_Tag: buff_character
+  m_IsVariant: 0
