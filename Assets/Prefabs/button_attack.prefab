@@ -151,7 +151,7 @@ GameObject:
   - component: {fileID: 8875039523632421230}
   - component: {fileID: 8875039523632421233}
   m_Layer: 5
-  m_Name: button_buff
+  m_Name: button_attack
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
